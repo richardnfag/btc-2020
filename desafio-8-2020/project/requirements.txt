@@ -1,0 +1,5 @@
+python-multipart
+uvicorn
+fastapi
+ibm-cloud-sdk-core == 1.7.3
+ibm-watson >= 4.7.1

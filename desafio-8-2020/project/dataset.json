@@ -1,0 +1,92 @@
+[
+    {
+        "NOME": "TORO",
+        "SEGURANCA": 5,
+        "CONSUMO": -6.5,
+        "DESEMPENHO": 139,
+        "MANUTENCAO": 1,
+        "CONFORTO": 4,
+        "DESIGN": 8,
+        "ACESSORIOS": 6
+    },
+    {
+        "NOME": "DUCATO",
+        "SEGURANCA": 3,
+        "CONSUMO": -8.9,
+        "DESEMPENHO": 130,
+        "MANUTENCAO": 0,
+        "CONFORTO": 1,
+        "DESIGN": 4,
+        "ACESSORIOS": 2
+    },
+    {
+        "NOME": "FIORINO",
+        "SEGURANCA": 4,
+        "CONSUMO": -7.61,
+        "DESEMPENHO": 88,
+        "MANUTENCAO": 3,
+        "CONFORTO": 0,
+        "DESIGN": 3,
+        "ACESSORIOS": 0
+    },
+    {
+        "NOME": "CRONOS",
+        "SEGURANCA": 5,
+        "CONSUMO": -8.5,
+        "DESEMPENHO": 109,
+        "MANUTENCAO": 4,
+        "CONFORTO": 3,
+        "DESIGN": 7,
+        "ACESSORIOS": 7
+    },
+    {
+        "NOME": "FIAT 500",
+        "SEGURANCA": 4,
+        "CONSUMO": -7.6,
+        "DESEMPENHO": 88,
+        "MANUTENCAO": 6,
+        "CONFORTO": 3,
+        "DESIGN": 1,
+        "ACESSORIOS": 7
+    },
+    {
+        "NOME": "MAREA",
+        "SEGURANCA": 0,
+        "CONSUMO": -8,
+        "DESEMPENHO": 106,
+        "MANUTENCAO": 8,
+        "CONFORTO": 4,
+        "DESIGN": 0,
+        "ACESSORIOS": 4
+    },
+    {
+        "NOME": "LINEA",
+        "SEGURANCA": 4,
+        "CONSUMO": -7.7,
+        "DESEMPENHO": 132,
+        "MANUTENCAO": 7,
+        "CONFORTO": 4,
+        "DESIGN": 2,
+        "ACESSORIOS": 9
+    },
+    {
+        "NOME": "ARGO",
+        "SEGURANCA": 5,
+        "CONSUMO": -9.3,
+        "DESEMPENHO": 77,
+        "MANUTENCAO": 5,
+        "CONFORTO": 3,
+        "DESIGN": 5,
+        "ACESSORIOS": 4
+    },
+    {
+        "NOME": "RENEGADE",
+        "SEGURANCA": 4,
+        "CONSUMO": -6.9,
+        "DESEMPENHO": 140,
+        "MANUTENCAO": 2,
+        "CONFORTO": 4,
+        "DESIGN": 6,
+        "ACESSORIOS": 5
+    }
+]

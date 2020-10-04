@@ -1,0 +1,13 @@
+applications:
+  - name: btc-fca
+    path: .
+    instances: 1
+    routes:
+      - route: btc-fca.mybluemix.net
+    random-route: true
+    memory: 128M
+    env:
+      SPEECH_TO_TEXT_TOKEN: ''
+      SPEECH_TO_TEXT_URL: ''
+      NLU_TOKEN: ''
+      NLU_URL: ''

@@ -14,7 +14,8 @@
   - [4.4. Desenvolvimento](#44-desenvolvimento)
 - [5. Submissão](#5-submissão)
 - [6. Sobre a avaliação](#6-sobre-a-avaliação)
-- [7. Projeto Submetido](#7-projeto-submetido)
+- **[7. Projeto Submetido](#7-projeto-submetido)**
+- **[8. Certificado de Conclusão](#8-Certificado-de-Conclusão)**
 
 ## Para te ajudar
 
@@ -222,6 +223,10 @@ O sistema testará se o assistente virtual identifica e responde adequadamente a
 ## 7. Projeto Submetido
 
 ### [Veja aqui os componetes que foram utilizados para a submissão desse desafio](./project)
+
+## 8. Certificado de Conclusão
+
+![Certificado](../docs/images/Certificado-Desafio5.png)
 
 ## Material de apoio
 

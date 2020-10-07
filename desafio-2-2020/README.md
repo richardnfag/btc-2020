@@ -16,7 +16,8 @@
   - [4.3. Desenvolvimento](#43-desenvolvimento)
 - [5. Submissão](#5-submissão)
 - [6. Sobre a avaliação](#6-sobre-a-avaliação)
-- [7. Projeto Submetido](#7-projeto-submetido)
+- **[7. Projeto Submetido](#7-projeto-submetido)**
+- **[8. Certificado de Conclusão](#8-Certificado-de-Conclusão)**
 
 ## Para te ajudar
 
@@ -107,6 +108,10 @@ O tempo de entrega não entra no cálculo da pontuação do desafio. Entretanto,
 ## 7. Projeto Submetido
 
 ### [Veja aqui os componetes que foram utilizados para a submissão desse desafio](./project)
+
+## 8. Certificado de Conclusão
+
+![Certificado](../docs/images/Certificado-Desafio2.png)
 
 ## Material de apoio
 

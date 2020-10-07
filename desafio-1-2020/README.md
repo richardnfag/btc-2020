@@ -14,7 +14,8 @@
 - [5. Submissão](#5-submissão)
 - [6. Sobre a Avaliação](#6-sobre-avaliação)
 - [7. Especificações técnicas](#7-especificações-técnicas)
-- [8. Projeto Submetido](#8-projeto-submetido)
+- **[8. Projeto Submetido](#8-projeto-submetido)**
+- **[9. Certificado de Conclusão](#9-Certificado-de-Conclusão)**
 
 ## Para te ajudar
 
@@ -200,6 +201,10 @@ _Exemplo: Um usuário extrapola o limite do plano Lite criando 4 classes com 250
 ## 8. Projeto Submetido
 
 ### [Veja aqui os componetes que foram utilizados para a submissão desse desafio](./project)
+
+## 9. Certificado de Conclusão
+
+![Certificado](../docs/images/Certificado-Desafio1.png)
 
 ## Material de apoio
 

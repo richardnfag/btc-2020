@@ -16,7 +16,8 @@
 - [6. Submissão](#6-submissão)
 - [7. Resumo das tarefas](#7-resumo-das-tarefas)
 - [8. Sobre a avaliação](#8-sobre-a-avaliação)
-- [9. Projeto Submetido](#9-projeto-submetido)
+- **[9. Projeto Submetido](#9-projeto-submetido)**
+- **[10. Certificado de Conclusão](#10-Certificado-de-Conclusão)**
 
 ## Para te ajudar
 
@@ -393,6 +394,10 @@ O sistema testará se a sua API é capaz de realizar o processamento pedido e se
 ## 9. Projeto Submetido
 
 ### [Veja aqui os componetes que foram utilizados para a submissão desse desafio](./project)
+
+## 10. Certificado de Conclusão
+
+![Certificado](../docs/images/Certificado-Desafio8.png)
 
 ## Material de apoio
 

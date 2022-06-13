@@ -3,3 +3,4 @@ uvicorn
 fastapi
 ibm-cloud-sdk-core == 1.7.3
 ibm-watson >= 4.7.1
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
